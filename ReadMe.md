@@ -1,7 +1,7 @@
 <!--
  * @Author: Sunist Chan
  * @Date: 2021-04-22 00:39:00
- * @LastEditTime: 2021-04-22 00:44:45
+ * @LastEditTime: 2021-04-22 00:54:14
  * @LastEditors: Sunist Chan
  * @Description: 
  * @FilePath: \Reimagine-Album\ReadMe.md
@@ -12,6 +12,32 @@
 
 ## Summary ##
 
+This project contains three main parts:
+
++ FrontEnd
++ BackEnd
++ ApiServer
+
+Our project depend on:
+
+**Operation System**
+
++ Windows Server 2016 and upper
++ Ubuntu Server 18.04 LTS
++ HarmonyOS beta 2
++ iOS/iPadOS 13.4 and upper
+
+**Data Base**
+
++ MySql 5.7 and upper
++ MariaDb 10.2 and upper
+
+**OSS/COS/BOS**
+
++ Aliyun BOS
++ Tencent Cloud COS
++ ChinaMobile OSS
+
 ## Quick start ##
 
 ## Install ##
@@ -20,4 +46,10 @@
 
 ## Contribution ##
 
++ [Jecosine Moc](mailto:jecosine@email.swu.edu.cn)
++ [Sunist Chan](mailto:sunist@email.swu.edu.cn)
+<!--+ [吴大佬](mailto:吴大佬的邮箱)-->
+
 ## License & Copyright ##
+
+Copyright (C) 2019 - 2021 Southwest University ACM Lab
